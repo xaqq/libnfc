@@ -1,7 +1,7 @@
 # libnfc #
 This is development site of libnfc, the **Free/Libre Near Field Communication (NFC) Library**.
 
-Important: due to googlecode restrictions, libnfc's download section is now hosted at https://bintray.com/nfc-tools/sources/libnfc
+Prepared archives, with less development tools required, are available at https://bintray.com/nfc-tools/sources/libnfc
 
 If you are new to libnfc, you should browse its dedicated wiki page[¹] to collect useful information and have a look to our forum[²].
 
@@ -18,7 +18,7 @@ Please follow instructions present in our main website.
 http://www.libnfc.org/documentation/installation
 
 ### Development version ###
-Fetch current version using Git as described in this page: http://code.google.com/p/libnfc/source/checkout
+Fetch current version using Git as usual on GitHub
 
 You can compile development version using:
 #### Under MacOSX, GNU/Linux, `*`BSD and probably a lot of POSIX systems ####
